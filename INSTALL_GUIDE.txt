@@ -1,0 +1,48 @@
+====================================
+   SHIN SONIC - INSTALLATION GUIDE
+====================================
+
+FILES CREATED:
+--------------
+1. SKIN FILE (use this in Minecraft launcher):
+   /home/gh0st/minecraft-custom-project/skins/exports/shin_sonic_final.png
+
+2. RESOURCE PACK (for lanky model - needs OptiFine):
+   /home/gh0st/minecraft-custom-project/resourcepack/shin_sonic_resourcepack.zip
+
+
+HOW TO INSTALL THE SKIN:
+------------------------
+1. Open Minecraft Launcher
+2. Click on your profile picture (top right)
+3. Click "Skins"
+4. Click "+ New Skin"
+5. Click "Browse" and select:
+   shin_sonic_final.png
+6. Choose "Classic" model
+7. Click "Save & Use"
+
+
+HOW TO INSTALL RESOURCE PACK (for lanky model):
+-----------------------------------------------
+** REQUIRES OPTIFINE TO BE INSTALLED **
+
+1. Copy shin_sonic_resourcepack.zip to:
+   - Windows: %appdata%\.minecraft\resourcepacks\
+   - Mac: ~/Library/Application Support/minecraft/resourcepacks/
+   - Linux: ~/.minecraft/resourcepacks/
+
+2. Open Minecraft (with OptiFine)
+3. Go to Options > Resource Packs
+4. Move "Shin Sonic" to Active
+5. Click Done
+
+
+QUICK COPY COMMAND (Linux):
+---------------------------
+cp /home/gh0st/minecraft-custom-project/resourcepack/shin_sonic_resourcepack.zip ~/.minecraft/resourcepacks/
+
+
+====================================
+   Enjoy your creepy Shin Sonic!
+====================================

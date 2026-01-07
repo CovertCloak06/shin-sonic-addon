@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "shinsonic:shin_sonic",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "phase1": "textures/entity/shin_sonic/phase1",
+        "phase2": "textures/entity/shin_sonic/phase2",
+        "phase3": "textures/entity/shin_sonic/phase3",
+        "phase4": "textures/entity/shin_sonic/phase4"
+      },
+      "geometry": {
+        "default": "geometry.shin_sonic"
+      },
+      "render_controllers": ["controller.render.shin_sonic"],
+      "spawn_egg": {
+        "base_color": "#1a237e",
+        "overlay_color": "#d4a574"
+      }
+    }
+  }
+}

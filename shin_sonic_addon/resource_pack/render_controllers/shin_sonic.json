@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.0",
+  "render_controllers": {
+    "controller.render.shin_sonic": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.phase1",
+            "Texture.phase2",
+            "Texture.phase3",
+            "Texture.phase4"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [{"*": "Material.default"}],
+      "textures": ["Array.skins[query.variant - 1]"]
+    }
+  }
+}

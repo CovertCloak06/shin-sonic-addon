@@ -1,0 +1,39 @@
+{
+  "modelVersion": 1,
+  "modelName": "Shin Sonic Huggy",
+  "modelDesc": "Lanky Huggy Wuggy style Shin Sonic",
+  "modelAuthor": "Custom",
+  "modelType": "default",
+  "parts": {
+    "head": {
+      "show": true,
+      "scale": [1.2, 1.2, 1.2],
+      "pos": [0, -2, 0]
+    },
+    "body": {
+      "show": true,
+      "scale": [0.6, 1.3, 0.5],
+      "pos": [0, 0, 0]
+    },
+    "left_arm": {
+      "show": true,
+      "scale": [0.4, 1.8, 0.4],
+      "pos": [2, 0, 0]
+    },
+    "right_arm": {
+      "show": true,
+      "scale": [0.4, 1.8, 0.4],
+      "pos": [-2, 0, 0]
+    },
+    "left_leg": {
+      "show": true,
+      "scale": [0.4, 1.6, 0.4],
+      "pos": [1, 0, 0]
+    },
+    "right_leg": {
+      "show": true,
+      "scale": [0.4, 1.6, 0.4],
+      "pos": [-1, 0, 0]
+    }
+  }
+}
